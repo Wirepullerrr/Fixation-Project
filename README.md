@@ -91,7 +91,6 @@ Offset (s)
 Each highlighted region indicates a fixation segmentation. The pink highlighted region represents a fixation on a non-ROI referent (the referent is not listed in the dictionary).
 
 Data Explanation
-You may access the data here in UT Box: https://utexas.box.com/s/r59sl7ufxzfor4amaabf9tohnxih5axw 
 
 We will provide you with two sets of data (subject 1 and subject 2). Each pair of subjects is a child-parent dyad. Each subject folder includes two types of data: essential files that are needed for the program, additional files that you may refer to for checking how well the programs are working qualitatively. 
 
