@@ -1,0 +1,21 @@
+#
+# This file has been generated automatically by a python script "synchronize_video.py"
+#
+
+# trial info
+# trial number, onset, offset
+1,1,17212
+
+# sensor
+# recording time
+# hour, min, sec, ms
+16,32,05,136
+
+# speech
+# recording time
+# hour, min, sec, ms
+16,28,54,453,44100
+
+# video max cam
+# hour, min, sec, ms, rate
+16,32,28,919,30
